@@ -12,3 +12,6 @@
 /captures
 .externalNativeBuild
 .cxx
+/src\main\java\com\example\beyourowndoctor\DiseasesCatagorey.java
+/src\main\java\com\example\beyourowndoctor\Specilist_Doctor.java
+/src\main\res\values\strings.xml
