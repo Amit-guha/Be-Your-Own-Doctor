@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CoronaUpdate">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/_15ssp"
+        android:textStyle="bold"
+        android:layout_margin="@dimen/_10sdp"
+        android:text="প্রতিদিনের করোনা আপডেট জানতে ভিজিট করুন : https://corona.gov.bd/ অথবা
+নিচের বাটনে ক্লিক করুন : "/>
+
+
+    <Button
+        android:id="@+id/btnWeb"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="@dimen/_20sdp"
+        style="@style/TextAppearance.AppCompat.Large"
+        android:text="ক্লিক হেয়ার"/>
+
+</LinearLayout>

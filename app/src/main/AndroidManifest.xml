@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.beyourowndoctor">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/stethoscope"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/stethoscope"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme"
+        android:usesCleartextTraffic="true">
+        <activity android:name=".CoronaWebsite"
+            android:screenOrientation="portrait">
+
+        </activity>
+        <activity android:name=".CoronaUpdate"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".BYOD"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Feedback"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".about"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait"/>
+        <activity
+            android:name=".bloodbankdetails"
+            android:parentActivityName=".bloodbank"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".bloodbank"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DiseasesName"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".emergency"
+            android:parentActivityName=".Hospital"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Hospital"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DevelopedBy"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".HealthCareDetails"
+            android:parentActivityName=".HealthCare"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".HealthCare"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".WhatFirstAidsBox"
+            android:parentActivityName=".FirstAids"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FirstAids"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".FiveDiseasesMark"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DiseasesMark"
+            android:parentActivityName=".DiseasesCatagorey"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DiseasesCatagorey"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DoctorPHone"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".DoctorName"
+            android:parentActivityName=".Specilist_Doctor"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".Specilist_Doctor"
+            android:parentActivityName=".MainActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".MainActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>
