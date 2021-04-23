@@ -10,7 +10,7 @@
 * You will find different medical tips 
 
 
-**Screenshots**
+# Screenshots
 <br/>
 <br/>
 
