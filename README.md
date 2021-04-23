@@ -14,7 +14,3 @@
 <br/>
 <br/>
 
-<p align="center >
-<img src="https://github.com/Amit-guha/Be-Your-Own-Doctor/blob/master/app/src/main/assets/Mainpage.png" width="220px" height="440px">
-<img src="https://github.com/Amit-guha/Be-Your-Own-Doctor/blob/master/app/src/main/assets/Selectsymtom.png" width="220px" height="440px">
-</p>
