@@ -29,4 +29,10 @@
   <img src="https://github.com/Amit-guha/Be-Your-Own-Doctor/blob/master/app/src/main/assets/DoctorNumber.png" width="220px" height="440px">
  </p>
  
- 
+  <br/>
+<br/>
+
+ <p align="center">
+ <img src="https://github.com/Amit-guha/Be-Your-Own-Doctor/blob/master/app/src/main/assets/emergencyhospital.png" width="220px" height="440px">
+<img src="https://github.com/Amit-guha/Be-Your-Own-Doctor/blob/master/app/src/main/assets/FirstAids.png" width="220px" height="440px">
+ </p>
