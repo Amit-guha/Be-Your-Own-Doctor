@@ -37,3 +37,9 @@
 <img src="https://github.com/Amit-guha/Be-Your-Own-Doctor/blob/master/app/src/main/assets/FirstAids.png" width="220px" height="440px">
  <img src="https://github.com/Amit-guha/Be-Your-Own-Doctor/blob/master/app/src/main/assets/Design2.png" width="220px" height="440px">
  </p>
+ 
+ 
+**Data :**  Thank you to all of my friends who were helping me provide some health-related data.
+
+--  If you feel sick, always follow your doctor's suggestions.
+
