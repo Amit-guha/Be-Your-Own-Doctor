@@ -24,7 +24,7 @@
  <br/>
  <br/>
  
- <p align="center">
+ <p>
 <img src="https://github.com/Amit-guha/Be-Your-Own-Doctor/blob/master/app/src/main/assets/SpecilistDoctor.png" width="220px" height="440px">
 <img src="https://github.com/Amit-guha/Be-Your-Own-Doctor/blob/master/app/src/main/assets/DoctorNumber.png" width="220px" height="440px">
 <img src="https://github.com/Amit-guha/Be-Your-Own-Doctor/blob/master/app/src/main/assets/emergencyhospital.png" width="220px" height="440px">
